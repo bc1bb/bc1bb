@@ -8,9 +8,9 @@
 - ♂️ My pronouns are he/him,
 - 📮 Reach me at [📧](mailto:jusdepatate@protonmail.com), [🎮](https://discord.com/users/196668513601978369),
 - 🚪 Check out some [pieces of code](https://github.com/jusdepatate/pieces-of-code) under [The Unlicense](https://unlicense.org/),
-- 💻 I use arch btw.
+- 💻 I use arch btw (even on my server).
 
 ## Proudest creations/contribs
-- [HiberFile](https://hiberfile.com) - Franco-Swiss [FOSS](https://github.com/hiberfile/hiberfile) privacy-friendly modern & easy large file host (👔: sysadmin),
-- [4lbion](https://github.com/jusdepatate/4lbion) - FOSS [Albion Online](https://albiononline.com) game launcher/updater,
-- [OpenLongr](https://openlongr.space) - [FOSS](https://github.com/jusdepatate/openlongr) alternative to TwitLonger,
+- 📁 [HiberFile](https://hiberfile.com) - Franco-Swiss [FOSS](https://github.com/hiberfile/hiberfile) privacy-friendly modern & easy large file host (👔 sysadmin),
+- 🚀 [4lbion](https://github.com/jusdepatate/4lbion) - FOSS [Albion Online](https://albiononline.com) game launcher/updater,
+- 📝 [OpenLongr](https://openlongr.space) - [FOSS](https://github.com/jusdepatate/openlongr) alternative to TwitLonger.
