@@ -3,7 +3,7 @@
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=jusdepatate&count_private=true&show_icons=true&theme=radical&hide=contribs&custom_title=jusdepatate" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jusdepatate&layout=compact&theme=radical" /> |
 | ------------- | ------------- |
 
-- 🤓 Started programming at 7, now I'm 17,
+- 🤓 Started programming at 7, now I'm 18,
 - 🇫🇷 French,
 - ♂️ My pronouns are he/him,
 - 📮 Reach me at [📧](mailto:jusdepatate@protonmail.com), [🎮](https://discord.com/users/196668513601978369),
