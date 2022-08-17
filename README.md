@@ -11,6 +11,7 @@
 - 💻 I use arch btw (even on my server).
 
 ## Proudest creations/contribs
-- 📁 [HiberFile](https://hiberfile.com) - Franco-Swiss [FOSS](https://github.com/hiberfile/hiberfile) privacy-friendly modern & easy large file host (👔 sysadmin),
 - 🚀 [4lbion](https://github.com/jusdepatate/4lbion) - FOSS [Albion Online](https://albiononline.com) game launcher/updater,
 - 📝 [OpenLongr](https://openlongr.space) - [FOSS](https://github.com/jusdepatate/openlongr) alternative to TwitLonger.
+
+- 🪦 ~~[HiberFile](https://web.archive.org/web/2022*/https://hiberfile.com/) - was a Franco-Swiss [FOSS](https://github.com/hiberfile/hiberfile) privacy-friendly modern & easy large file host~~
