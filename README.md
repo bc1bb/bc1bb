@@ -1,6 +1,6 @@
 # Guillaume '`bc1bb`'
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=bc1bb&count_private=true&show_icons=true&theme=radical&hide=contribs&custom_title=jusdepatate" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bc1bb&layout=compact&theme=radical" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=bc1bb&count_private=true&show_icons=true&theme=radical&hide=contribs" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bc1bb&layout=compact&theme=radical" /> |
 | ------------- | ------------- |
 
 - 🤓 Started programming at 7,
