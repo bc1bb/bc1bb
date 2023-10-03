@@ -12,8 +12,8 @@
 
 ## Proudest creations/contribs
 - 🚀 [4lbion](https://github.com/bc1bb/4lbion) - FOSS [Albion Online](https://albiononline.com) game launcher and updater in Python,
-- 📝 [OpenLongr](https://openlongr.ovh) - [FOSS](https://github.com/bc1bb/openlongr) alternative to TwitLonger,
-- 📝 [OpenLink](https://onlk.ovh) - [FOSS](https://github.com/bc1bb/openlink) KISS Link Shortener,
+- 🔗 [OpenLongr](https://openlongr.ovh) - [FOSS](https://github.com/bc1bb/openlongr) alternative to TwitLonger,
+- 🔗 [OpenLink](https://onlk.ovh) - [FOSS](https://github.com/bc1bb/openlink) KISS Link Shortener,
 - 📝 [mkhtml](https://github.com/bc1bb/mkhtml) - Static site generator in pure Rust,
 - 📝 [gotrusty](https://github.com/bc1bb/gotrusty) - HTTP server in pure Rust.
 <br>
